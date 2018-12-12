@@ -1,0 +1,99 @@
+fileFormatVersion: 2
+guid: 10b63de48c588814fa2e579b8dd4c7ad
+timeCreated: 1435469974
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: RechterArm
+    21300002: Korpus
+    21300004: Unterkiefer
+    21300006: LinkerArm
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: RechterArm
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 514
+        width: 192
+        height: 478
+      alignment: 9
+      pivot: {x: 1.00843728, y: .862677157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Korpus
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 55
+        width: 454
+        height: 920
+      alignment: 9
+      pivot: {x: .522243679, y: .43048054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unterkiefer
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 420
+        width: 177
+        height: 284
+      alignment: 9
+      pivot: {x: .718708277, y: .517779291}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LinkerArm
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 18
+        width: 235
+        height: 486
+      alignment: 9
+      pivot: {x: .0416227952, y: .790906727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,303 @@
+Initialize engine version: 5.1.1f1 (2046fc06d4d8)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Gzae\Dropbox\Shared Files\Dubs&Desert\Dubs_n_Desert\DnD_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Gzae\Dropbox\Shared Files\Dubs&Desert\Dubs_n_Desert\DnD_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Gzae\Dropbox\Shared Files\Dubs&Desert\Dubs_n_Desert\DnD_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Gzae\Dropbox\Shared Files\Dubs&Desert\Dubs_n_Desert\DnD_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Gzae\Dropbox\Shared Files\Dubs&Desert\Dubs_n_Desert\DnD_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Gzae\Dropbox\Shared Files\Dubs&Desert\Dubs_n_Desert\DnD_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\Gzae\Dropbox\Shared Files\Dubs&Desert\Dubs_n_Desert\DnD_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Gzae\Dropbox\Shared Files\Dubs&Desert\Dubs_n_Desert\DnD_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Gzae\Dropbox\Shared Files\Dubs&Desert\Dubs_n_Desert\DnD_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Gzae\Dropbox\Shared Files\Dubs&Desert\Dubs_n_Desert\DnD_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Gzae\Dropbox\Shared Files\Dubs&Desert\Dubs_n_Desert\DnD_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Gzae\Dropbox\Shared Files\Dubs&Desert\Dubs_n_Desert\DnD_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.122 seconds
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at -1920,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\Gzae\Dropbox\Shared Files\Dubs&Desert\Dubs_n_Desert\DnD_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Gzae\Dropbox\Shared Files\Dubs&Desert\Dubs_n_Desert\DnD_Data\Managed\System.dll (this message is harmless)
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1715)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.794125 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 275.
+Total: 0.150143 ms (FindLiveObjects: 0.009721 ms CreateObjectMapping: 0.007561 ms MarkObjects: 0.127729 ms  DeleteObjects: 0.004860 ms)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1715)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.011307 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 260.
+Total: 0.159054 ms (FindLiveObjects: 0.009451 ms CreateObjectMapping: 0.006210 ms MarkObjects: 0.137721 ms  DeleteObjects: 0.005400 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.324320 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 282.
+Total: 0.151223 ms (FindLiveObjects: 0.009721 ms CreateObjectMapping: 0.006210 ms MarkObjects: 0.130430 ms  DeleteObjects: 0.004320 ms)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1715)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.900050 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 258.
+Total: 0.159324 ms (FindLiveObjects: 0.011071 ms CreateObjectMapping: 0.006210 ms MarkObjects: 0.135021 ms  DeleteObjects: 0.006751 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.318109 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 198.
+Total: 0.124219 ms (FindLiveObjects: 0.006751 ms CreateObjectMapping: 0.005940 ms MarkObjects: 0.105316 ms  DeleteObjects: 0.005940 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.659712 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 193.
+Total: 0.118818 ms (FindLiveObjects: 0.006210 ms CreateObjectMapping: 0.005940 ms MarkObjects: 0.101805 ms  DeleteObjects: 0.004860 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.803645 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 193.
+Total: 0.119628 ms (FindLiveObjects: 0.005670 ms CreateObjectMapping: 0.005940 ms MarkObjects: 0.103696 ms  DeleteObjects: 0.004050 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.258970 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 435.
+Total: 0.138801 ms (FindLiveObjects: 0.011341 ms CreateObjectMapping: 0.009991 ms MarkObjects: 0.112607 ms  DeleteObjects: 0.004590 ms)
+
+win
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.262446 ms
+
+Unloading 108 unused Assets to reduce memory usage. Loaded Objects now: 196.
+Total: 1.966986 ms (FindLiveObjects: 0.047257 ms CreateObjectMapping: 0.046717 ms MarkObjects: 0.469873 ms  DeleteObjects: 1.402058 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.280843 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 419.
+Total: 0.134210 ms (FindLiveObjects: 0.009451 ms CreateObjectMapping: 0.009451 ms MarkObjects: 0.109097 ms  DeleteObjects: 0.005940 ms)
+
+win
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.820658 ms
+
+Unloading 107 unused Assets to reduce memory usage. Loaded Objects now: 196.
+Total: 1.054784 ms (FindLiveObjects: 0.024033 ms CreateObjectMapping: 0.025654 ms MarkObjects: 0.259510 ms  DeleteObjects: 0.744776 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.432337 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 194.
+Total: 0.121248 ms (FindLiveObjects: 0.005940 ms CreateObjectMapping: 0.005940 ms MarkObjects: 0.104236 ms  DeleteObjects: 0.005130 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.276523 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 328.
+Total: 0.290835 ms (FindLiveObjects: 0.022953 ms CreateObjectMapping: 0.023763 ms MarkObjects: 0.232776 ms  DeleteObjects: 0.010261 ms)
+
+ArgumentException: The thing you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at EnemyControlLevel1.EmitCollectable () [0x00000] in <filename unknown>:0 
+  at EnemyControlLevel1.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: The thing you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at EnemyControlLevel1.EmitCollectable () [0x00000] in <filename unknown>:0 
+  at EnemyControlLevel1.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: The thing you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at EnemyControlLevel1.EmitCollectable () [0x00000] in <filename unknown>:0 
+  at EnemyControlLevel1.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: The thing you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at EnemyControlLevel1.EmitCollectable () [0x00000] in <filename unknown>:0 
+  at EnemyControlLevel1.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: The thing you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at EnemyControlLevel1.EmitCollectable () [0x00000] in <filename unknown>:0 
+  at EnemyControlLevel1.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: The thing you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at EnemyControlLevel1.EmitCollectable () [0x00000] in <filename unknown>:0 
+  at EnemyControlLevel1.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: The thing you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at EnemyControlLevel1.EmitCollectable () [0x00000] in <filename unknown>:0 
+  at EnemyControlLevel1.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: The thing you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at EnemyControlLevel1.EmitCollectable () [0x00000] in <filename unknown>:0 
+  at EnemyControlLevel1.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: The thing you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at EnemyControlLevel1.EmitCollectable () [0x00000] in <filename unknown>:0 
+  at EnemyControlLevel1.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: The thing you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at EnemyControlLevel1.EmitCollectable () [0x00000] in <filename unknown>:0 
+  at EnemyControlLevel1.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: The thing you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at EnemyControlLevel1.EmitCollectable () [0x00000] in <filename unknown>:0 
+  at EnemyControlLevel1.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: The thing you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at EnemyControlLevel1.EmitCollectable () [0x00000] in <filename unknown>:0 
+  at EnemyControlLevel1.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: The thing you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at EnemyControlLevel1.EmitCollectable () [0x00000] in <filename unknown>:0 
+  at EnemyControlLevel1.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: The thing you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at EnemyControlLevel1.EmitCollectable () [0x00000] in <filename unknown>:0 
+  at EnemyControlLevel1.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: The thing you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at EnemyControlLevel1.EmitCollectable () [0x00000] in <filename unknown>:0 
+  at EnemyControlLevel1.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: The thing you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at EnemyControlLevel1.EmitCollectable () [0x00000] in <filename unknown>:0 
+  at EnemyControlLevel1.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: The thing you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at EnemyControlLevel1.EmitCollectable () [0x00000] in <filename unknown>:0 
+  at EnemyControlLevel1.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+win
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.982683 ms
+
+Unloading 74 unused Assets to reduce memory usage. Loaded Objects now: 194.
+Total: 1.452826 ms (FindLiveObjects: 0.038075 ms CreateObjectMapping: 0.028894 ms MarkObjects: 0.428286 ms  DeleteObjects: 0.957029 ms)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1715)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.387240 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 261.
+Total: 0.148523 ms (FindLiveObjects: 0.007561 ms CreateObjectMapping: 0.005940 ms MarkObjects: 0.130700 ms  DeleteObjects: 0.003780 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.410734 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 221.
+Total: 0.139611 ms (FindLiveObjects: 0.007561 ms CreateObjectMapping: 0.006210 ms MarkObjects: 0.119358 ms  DeleteObjects: 0.006210 ms)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1715)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.383729 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 259.
+Total: 0.150953 ms (FindLiveObjects: 0.008911 ms CreateObjectMapping: 0.005670 ms MarkObjects: 0.131780 ms  DeleteObjects: 0.004320 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.364826 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 184.
+Total: 0.149873 ms (FindLiveObjects: 0.033215 ms CreateObjectMapping: 0.005940 ms MarkObjects: 0.104506 ms  DeleteObjects: 0.005400 ms)
+

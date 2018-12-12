@@ -1,0 +1,253 @@
+fileFormatVersion: 2
+guid: 9575a07165be55641b171247486284f3
+timeCreated: 1435430746
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Bein_left
+    21300002: Korpus_front
+    21300004: Arm_right
+    21300006: Bein_right
+    21300008: LinkerArm_back
+    21300010: Korpus_left
+    21300012: Korpus_right
+    21300014: Korpus_back
+    21300016: RechterArm_back
+    21300018: Arm_left
+    21300020: Hauptcharakter_12
+    21300022: LinkerArm_front
+    21300024: LinkesBein_back
+    21300026: RechtesBein_back
+    21300028: RechterArm_front
+    21300030: Hauptcharakter_19
+    21300032: RechtesBein_front
+    21300034: LinkesBein_front
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Bein_left
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 784
+        width: 163
+        height: 253
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Korpus_front
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 523
+        width: 292
+        height: 544
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arm_right
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 788
+        width: 103
+        height: 207
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bein_right
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 784
+        width: 163
+        height: 253
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LinkerArm_back
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 567
+        width: 82
+        height: 228
+      alignment: 9
+      pivot: {x: .738129377, y: .780286312}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Korpus_left
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 221
+        width: 285
+        height: 549
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Korpus_right
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 315
+        width: 272
+        height: 452
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Korpus_back
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 218
+        width: 291
+        height: 548
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RechterArm_back
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 557
+        width: 88
+        height: 219
+      alignment: 9
+      pivot: {x: .237763837, y: .799910843}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arm_left
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 345
+        width: 103
+        height: 207
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hauptcharakter_12
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 549
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LinkerArm_front
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 219
+        width: 82
+        height: 259
+      alignment: 9
+      pivot: {x: .261870593, y: .767300308}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LinkesBein_back
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 321
+        width: 93
+        height: 170
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RechtesBein_back
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 303
+        width: 90
+        height: 203
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RechterArm_front
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 219
+        width: 84
+        height: 219
+      alignment: 9
+      pivot: {x: .795858502, y: .816122234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hauptcharakter_19
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 171
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RechtesBein_front
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 0
+        width: 89
+        height: 203
+      alignment: 9
+      pivot: {x: .539890945, y: .867272079}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LinkesBein_front
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 16
+        width: 94
+        height: 170
+      alignment: 9
+      pivot: {x: .5, y: .834145486}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
